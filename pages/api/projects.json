@@ -1,37 +1,96 @@
 [
   {
     "id": 1,
-    "name": "React Counter",
-    "image": "https://imgur.com/a/MCDvpuk",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["React.js", "html", "css"],
-    "source_code": "",
-    "demo": "https://number-count-changer.netlify.app/"
+    "name": "Notes App",
+    "image": "https://imgur.com/9jOKFG8.png",
+    "description": "Full Stack Notes App that keeps track of mangers and employees duties. Admin and Manager are authorized to Create, Update, and Delete notes and users. Employees are only allowed to View and Update notes assigned to them.",
+    "tags": [
+      "React.js",
+      "JavaScript",
+      "CSS",
+      "Redux-Toolkit",
+      "JsonWemToken",
+      "MongoDB",
+      "Express",
+      "Node.js"
+    ],
+    "source_code": "https://github.com/IRG12/dand-repair-shop",
+    "demo": "https://dand-repair-shop.onrender.com/"
   },
   {
     "id": 2,
-    "name": "Background Changer",
-    "image": "https://imgur.com/a/QEVDbZ9",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["React.js", "html", "css"],
-    "demo": "https://bootcamp-color-picker.netlify.app/"
+    "name": "Spotify Clone",
+    "image": "https://imgur.com/oXRR9sS.png",
+    "description": "Spotify Clone that allows you search and listen to your favorite music!",
+    "tags": [
+      "React.js",
+      "JavaScript",
+      "Redux-Toolkit",
+      "Tailwind CSS",
+      "Rapid API"
+    ],
+    "source_code": "",
+    "demo": "https://spotify-lyriks.netlify.app/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Gericht Restaurant",
+    "image": "https://imgur.com/NBpfVRS.png",
+    "description": "Front-End UI/UX Restaurant app",
+    "tags": ["React", "JavaScript", "CSS"],
+    "source_code": "https://github.com",
+    "demo": "https://gerichtfood.netlify.app/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Crypto Verse",
+    "image": "https://imgur.com/ih6juSk.png",
+    "description": "Crypto Verse is your one stop to stay up to date on the various crypto coins and news.",
+    "tags": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Redux-Toolkit",
+      "Ant Design",
+      "Chart.js",
+      "Rapid API"
+    ],
+    "source_code": "https://github.com",
+    "demo": "https://cryptoinsites.netlify.app/"
+  },
+  {
+    "id": 5,
+    "name": "Tik Tik",
+    "image": "https://imgur.com/LE7U6OJ.png",
+    "description": "Social media application like Tick-Tock.",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "Tailwind CSS",
+      "Zustand",
+      "Google Auth",
+      "Sanity.io"
+    ],
+    "source_code": "https://github.com",
+    "demo": "https://tiktik-clone-final-lovat.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "Split Tip Calculator",
+    "image": "https://imgur.com/42VjWey.png",
+    "description": "Splitting the bill in your mind? Save your time and use this app instead!",
+    "tags": ["React", "JavaScript", "CSS"],
+    "source_code": "https://github.com",
+    "demo": "https://split-tip-and-total-per-person-calculator.netlify.app/"
+  },
+  {
+    "id": 7,
+    "name": "GitHub User Search",
+    "image": "https://imgur.com/EvC6ldv.png",
+    "description": "This simple app helps you stay up to date with your friends and colleagues on GitHub.",
+    "tags": ["React", "JavaScript", "CSS"],
+    "source_code": "https://github.com",
+    "demo": "https://git-hub-user-search.netlify.app/"
   }
 ]
