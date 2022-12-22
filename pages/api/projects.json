@@ -17,32 +17,18 @@
     "source_code": "https://github.com/IRG12/dand-repair-shop",
     "demo": "https://dand-repair-shop.onrender.com/"
   },
+
   {
     "id": 2,
-    "name": "Spotify Clone",
-    "image": "https://imgur.com/oXRR9sS.png",
-    "description": "Spotify Clone that allows you search and listen to your favorite music!",
-    "tags": [
-      "React.js",
-      "JavaScript",
-      "Redux-Toolkit",
-      "Tailwind CSS",
-      "Rapid API"
-    ],
-    "source_code": "",
-    "demo": "https://spotify-lyriks.netlify.app/"
-  },
-  {
-    "id": 3,
     "name": "Gericht Restaurant",
     "image": "https://imgur.com/NBpfVRS.png",
     "description": "Front-End UI/UX Restaurant app",
     "tags": ["React", "JavaScript", "CSS"],
-    "source_code": "https://github.com",
+    "source_code": "https://github.com/IRG12/gericht-restaurant",
     "demo": "https://gerichtfood.netlify.app/"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Crypto Verse",
     "image": "https://imgur.com/ih6juSk.png",
     "description": "Crypto Verse is your one stop to stay up to date on the various crypto coins and news.",
@@ -55,11 +41,11 @@
       "Chart.js",
       "Rapid API"
     ],
-    "source_code": "https://github.com",
+    "source_code": "https://github.com/IRG12/crypto-verse",
     "demo": "https://cryptoinsites.netlify.app/"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Tik Tik",
     "image": "https://imgur.com/LE7U6OJ.png",
     "description": "Social media application like Tick-Tock.",
@@ -72,25 +58,16 @@
       "Google Auth",
       "Sanity.io"
     ],
-    "source_code": "https://github.com",
+    "source_code": "https://github.com/IRG12/tiktik_clone",
     "demo": "https://tiktik-clone-final-lovat.vercel.app/"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Split Tip Calculator",
     "image": "https://imgur.com/42VjWey.png",
     "description": "Splitting the bill in your mind? Save your time and use this app instead!",
     "tags": ["React", "JavaScript", "CSS"],
-    "source_code": "https://github.com",
+    "source_code": "https://github.com/IRG12/tip-calculator-app-main-clone",
     "demo": "https://split-tip-and-total-per-person-calculator.netlify.app/"
-  },
-  {
-    "id": 7,
-    "name": "GitHub User Search",
-    "image": "https://imgur.com/EvC6ldv.png",
-    "description": "This simple app helps you stay up to date with your friends and colleagues on GitHub.",
-    "tags": ["React", "JavaScript", "CSS"],
-    "source_code": "https://github.com",
-    "demo": "https://git-hub-user-search.netlify.app/"
   }
 ]
