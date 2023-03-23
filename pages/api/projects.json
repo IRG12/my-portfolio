@@ -73,7 +73,7 @@
   {
     "id": 6,
     "name": "Lyriks",
-    "image": "https://i.imgur.com/oXRR9sS.png",
+    "image": "https://imgur.com/oXRR9sS.png",
     "description": "Great music at your finger tips!",
     "tags": ["React", "JavaScript", "CSS"],
     "source_code": "https://github.com/IRG12/Spotify-Clone",
