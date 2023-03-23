@@ -69,5 +69,14 @@
     "tags": ["React", "JavaScript", "CSS"],
     "source_code": "https://github.com/IRG12/tip-calculator-app-main-clone",
     "demo": "https://split-tip-and-total-per-person-calculator.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "Lyriks",
+    "image": "https://i.imgur.com/oXRR9sS.png",
+    "description": "Great music at your finger tips!",
+    "tags": ["React", "JavaScript", "CSS"],
+    "source_code": "",
+    "demo": "https://spotify-lyriks.netlify.app/"
   }
 ]
