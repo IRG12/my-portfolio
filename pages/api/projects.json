@@ -75,7 +75,14 @@
     "name": "Lyriks",
     "image": "https://imgur.com/oXRR9sS.png",
     "description": "Great music at your finger tips!",
-    "tags": ["React", "JavaScript", "CSS"],
+    "tags": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Redux-Toolkit",
+      "Rapid API",
+      "Swiper"
+    ],
     "source_code": "https://github.com/IRG12/Spotify-Clone",
     "demo": "https://spotify-lyriks.netlify.app/"
   }
