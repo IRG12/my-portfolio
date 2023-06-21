@@ -14,7 +14,6 @@
       "Express",
       "Node.js"
     ],
-    "source_code": "https://github.com/IRG12/dand-repair-shop",
     "demo": "https://dand-repair-shop.onrender.com/"
   },
 
@@ -24,7 +23,6 @@
     "image": "https://imgur.com/NBpfVRS.png",
     "description": "Front-End UI/UX Restaurant app",
     "tags": ["React", "JavaScript", "CSS"],
-    "source_code": "https://github.com/IRG12/gericht-restaurant",
     "demo": "https://gerichtfood.netlify.app/"
   },
   {
@@ -58,7 +56,6 @@
       "Google Auth",
       "Sanity.io"
     ],
-    "source_code": "https://github.com/IRG12/tiktik_clone",
     "demo": "https://tiktik-clone-final-lovat.vercel.app/"
   },
   {
@@ -67,12 +64,11 @@
     "image": "https://imgur.com/42VjWey.png",
     "description": "Splitting the bill in your mind? Save your time and use this app instead!",
     "tags": ["React", "JavaScript", "CSS"],
-    "source_code": "https://github.com/IRG12/tip-calculator-app-main-clone",
     "demo": "https://split-tip-and-total-per-person-calculator.netlify.app/"
   },
   {
     "id": 6,
-    "name": "Lyriks",
+    "name": "Saas",
     "image": "https://imgur.com/oXRR9sS.png",
     "description": "Great music at your finger tips!",
     "tags": [
@@ -83,7 +79,6 @@
       "Rapid API",
       "Swiper"
     ],
-    "source_code": "https://github.com/IRG12/Spotify-Clone",
     "demo": "https://spotify-lyriks.netlify.app/"
   }
 ]
