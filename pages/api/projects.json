@@ -65,20 +65,5 @@
     "description": "Splitting the bill in your mind? Save your time and use this app instead!",
     "tags": ["React", "JavaScript", "CSS"],
     "demo": "https://split-tip-and-total-per-person-calculator.netlify.app/"
-  },
-  {
-    "id": 6,
-    "name": "Saas",
-    "image": "https://imgur.com/oXRR9sS.png",
-    "description": "Great music at your finger tips!",
-    "tags": [
-      "React",
-      "JavaScript",
-      "CSS",
-      "Redux-Toolkit",
-      "Rapid API",
-      "Swiper"
-    ],
-    "demo": "https://spotify-lyriks.netlify.app/"
   }
 ]
